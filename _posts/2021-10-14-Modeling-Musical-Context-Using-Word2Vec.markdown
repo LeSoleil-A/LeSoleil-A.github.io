@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "笔记《CS224N Project Report: From Note2Vec to Chord2Vec》"
+title:  "笔记《Modeling Musical Context Using Word2Vec》"
 date:   2021-10-14 21:00:00 +0800
 categories: 音乐论文笔记
 typora-root-url: ..\assets\img\1014
